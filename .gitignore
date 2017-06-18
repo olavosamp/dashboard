@@ -1,4 +1,5 @@
 /flask/*
+/bower_components/*
 
 # Compiled source #
 ###################

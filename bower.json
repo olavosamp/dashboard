@@ -1,0 +1,25 @@
+{
+  "name": "dashboard",
+  "homepage": "https://github.com/olavosamp/dashboard",
+  "authors": [
+    "Olavo Sampaio <olavosamp@poli.ufrj.br>"
+  ],
+  "description": "dashboard app",
+  "main": "\\app\\templates\\base.html",
+  "keywords": [
+    "dashboard",
+    "chart"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chart.js": "^2.6.0"
+  }
+}
